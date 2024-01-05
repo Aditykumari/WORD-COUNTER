@@ -1,8 +1,5 @@
-![Screenshot (795)](https://github.com/Aditykumari/WORD-COUNTER/assets/127773486/62e52d99-3ddc-4db4-9dfa-c292904384cf)
-![Screenshot (796)](https://github.com/Aditykumari/WORD-COUNTER/assets/127773486/9082b2b3-9698-4f5b-9273-c491641f3ce5)
-![Screenshot (797)](https://github.com/Aditykumari/WORD-COUNTER/assets/127773486/5620b2a6-8b1a-4bab-b125-c87f4eef01b1)
-![Screenshot (798)](https://github.com/Aditykumari/WORD-COUNTER/assets/127773486/4ab0ad5e-db3f-4c20-8f1a-1ade74efac44)
-
+![Screenshot (799)](https://github.com/Aditykumari/WORD-COUNTER/assets/127773486/b233776a-ffe7-48ad-8cfb-318cd760c618)
+![Uploading Screenshot (800).png…]()
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
